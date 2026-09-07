@@ -1,4 +1,4 @@
-Global Advertising Data Analytics Capstone
+# Global Advertising Data Analytics Capstone
 
 This project analyzes global advertising performance data to identify trends, key metrics, and performance insights.
 
